@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stevencibambo
+- 👋 Hi, I’m Steven CIBAMBO,
 - 👀 I’m interested in AI Architecture design and Computer Vision
 - 🌱 I’m currently learning Project Managment
 - 💞️ I’m looking to collaborate on Computer Vision project or Machine Learning in general
