@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stevencibambo
-- 👀 I’m interested in Software design and Computer Vision
+- 👀 I’m interested in AI Architecture design and Computer Vision
 - 🌱 I’m currently learning Project Managment
 - 💞️ I’m looking to collaborate on Computer Vision project or Machine Learning in general
 - 📫 How to reach me stevencibambo@gmail.com is my personal email
