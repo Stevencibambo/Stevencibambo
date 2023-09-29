@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Steven CIBAMBO,
-- 👀 I’m interested in AI Architecture design and Computer Vision
-- 🌱 I’m currently learning Project Managment
-- 💞️ I’m looking for a collaborate on a Computer Vision project
+- 👋 Hi,
+- 👀 I am an AI enthusiast and data analytics practitioner
+- 🌱 I’m currently working on agnostic protocol algorithm
+- 💞️ I provide support in System Design (Requirements Analysis), Software Architecture (Frameworks, Tools selection), Data Analysis/Viz
 - 📫 How to reach me stevencibambo@gmail.com is my personal email
 
 <!---
